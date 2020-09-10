@@ -36,7 +36,7 @@ $theme = 'light';
 // Readonly users 
 // e.g. array('users', 'guest', ...)
 $readonly_users = array(
-    'user'
+    'guest'
 );
 
 // Enable highlight.js (https://highlightjs.org/) on view's page
