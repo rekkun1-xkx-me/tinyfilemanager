@@ -25,8 +25,8 @@ $use_auth = false;
 // Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
 // Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
 $auth_users = array(
-    'admin' => '$2y$10$/K.hjNr84lLNDt8fTXjoI.DBp6PpeyoJ.mGwrrLuCZfAwfSAGqhOW', //admin@123
-    'user' => '$2y$10$Fg6Dz8oH9fPoZ2jJan5tZuv6Z4Kp7avtQ9bDfrdRntXtPeiMAZyGO' //12345
+    'admin' => '$2y$10$SAS4AHMdWDiMQyd7C.6ODe6CLDqF0D0diA5ERuklSOs6T4aOjYU4C', //admin@123
+    'guest' => '$2y$10$2ckaWqK61V1rFijA13C0EuiN4aFHum59TR4g5Qu76g6sGC2zpOPum' //12345
 );
 
 //set application theme
